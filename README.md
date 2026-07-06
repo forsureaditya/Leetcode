@@ -6,6 +6,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/foreveraditya/Leetcode/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/foreveraditya/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -27,6 +29,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/foreveraditya/Leetcode/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Data Stream
 |  |
 | ------- |
@@ -44,4 +47,8 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
