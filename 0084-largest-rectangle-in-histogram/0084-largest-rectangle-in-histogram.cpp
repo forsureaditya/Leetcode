@@ -69,7 +69,7 @@ public:
         int ans = 0;
         for(int i=0;i<h.size();i++){
             int width = NSR[i]-NSL[i]-1;
-            int height = min(h[i],min(NLR[i],NLL[i]));
+            int height = h[i];
             ans = max(ans,width*height);
         }
         return ans;
