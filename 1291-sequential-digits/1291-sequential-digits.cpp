@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> sequentialDigits(int low, int high) {
+    vector<int> sequentialDigits(int &low, int &high) {
         string str = "123456789";
         int lowdig = 0;
         int highdig = 0;
