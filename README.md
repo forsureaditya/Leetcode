@@ -77,4 +77,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/foreveraditya/Leetcode/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/foreveraditya/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
