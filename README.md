@@ -9,6 +9,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/foreveraditya/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
+| [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/foreveraditya/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
@@ -51,6 +52,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
+| [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/foreveraditya/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/foreveraditya/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Enumeration
 |  |
 | ------- |
