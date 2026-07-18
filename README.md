@@ -12,6 +12,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/foreveraditya/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/foreveraditya/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/foreveraditya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -58,6 +59,7 @@
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/foreveraditya/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/foreveraditya/Leetcode/tree/master/0001-two-sum) |
+| [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +108,8 @@
 |  |
 | ------- |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/foreveraditya/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
