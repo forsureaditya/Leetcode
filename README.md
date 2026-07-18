@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/foreveraditya/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/foreveraditya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foreveraditya/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
