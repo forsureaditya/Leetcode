@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
+| [0633-sum-of-square-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/foreveraditya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/foreveraditya/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0633-sum-of-square-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/foreveraditya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
