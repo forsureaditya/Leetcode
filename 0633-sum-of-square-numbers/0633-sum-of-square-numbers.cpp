@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        // brute force for this question.
+        // optimal for the solution.....
         long long j=0;
         while(j*j<=c){
             j++;
