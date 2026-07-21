@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/foreveraditya/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/foreveraditya/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/foreveraditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/foreveraditya/Leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foreveraditya/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/foreveraditya/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/foreveraditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/foreveraditya/Leetcode/tree/master/0055-jump-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
@@ -90,6 +92,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/foreveraditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/foreveraditya/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/foreveraditya/Leetcode/tree/master/0455-assign-cookies) |
