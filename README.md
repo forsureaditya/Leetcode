@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/foreveraditya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/foreveraditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/foreveraditya/Leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/foreveraditya/Leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foreveraditya/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/foreveraditya/Leetcode/tree/master/0414-third-maximum-number) |
