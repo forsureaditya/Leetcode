@@ -3,16 +3,29 @@ public:
     vector<vector<int>> aggregateTimeSeries(vector<vector<int>>& series1, vector<vector<int>>& series2) {
         set<vector<int>>ans;
         vector<int>val;
-        for(int i=0;i<series1.size();i++){
-            val.push_back(series1[i][0]);
+        int l = 0;
+        int k = 0;
+        while(l<series1.size() && k<series2.size()){
+            if(series1[l][0]>series2[k][0]){
+                val.push_back(series2[k][0]);
+                k++;
+            }
+            else{
+                val.push_back(series1[l][0]);
+                l++;
+            }
         }
-        for(int i=0;i<series2.size();i++){
-            val.push_back(series2[i][0]);
+        while(l<series1.size()){
+            val.push_back(series1[l][0]);
+            l++;
         }
-        sort(val.begin(),val.end());
+        while(k<series2.size()){
+            val.push_back(series2[k][0]);
+            k++;
+        }
         int i=0;
         int j = 0;
-        int k = 0;
+         k = 0;
         while(i<val.size()){
             bool flag = false;
             while(j<series1.size() && k<series2.size()){
