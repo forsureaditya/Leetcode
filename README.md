@@ -21,6 +21,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/foreveraditya/Leetcode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/foreveraditya/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -128,6 +129,7 @@
 | [0435-non-overlapping-intervals](https://github.com/foreveraditya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/foreveraditya/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/foreveraditya/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/foreveraditya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
