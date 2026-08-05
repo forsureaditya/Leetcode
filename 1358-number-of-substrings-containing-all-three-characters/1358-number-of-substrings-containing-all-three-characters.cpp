@@ -13,9 +13,9 @@ public:
             else if(s[i] == 'c'){
                 a[2] = i;
             }
-            if(a[0]!=-1&&a[1]!=-1&&a[2]!=-1){
+           
                 cnt+=  *min_element(a.begin(), a.end()) + 1;
-            }
+            
         }
     return cnt;
     }
