@@ -75,6 +75,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/foreveraditya/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/foreveraditya/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -164,6 +165,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
 |  |
@@ -204,11 +206,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/foreveraditya/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/foreveraditya/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/foreveraditya/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/foreveraditya/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,4 +223,5 @@
 | ------- |
 | [0100-same-tree](https://github.com/foreveraditya/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/foreveraditya/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
