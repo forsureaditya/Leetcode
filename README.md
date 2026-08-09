@@ -199,4 +199,20 @@
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/foreveraditya/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/foreveraditya/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/foreveraditya/Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/foreveraditya/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/foreveraditya/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/foreveraditya/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
