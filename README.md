@@ -100,6 +100,7 @@
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0991-broken-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/foreveraditya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -147,6 +148,7 @@
 | [0860-lemonade-change](https://github.com/foreveraditya/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/foreveraditya/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/foreveraditya/Leetcode/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/foreveraditya/Leetcode/tree/master/1328-break-a-palindrome) |
 ## Two Pointers
 |  |
