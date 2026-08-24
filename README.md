@@ -31,6 +31,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/foreveraditya/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/foreveraditya/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -162,6 +163,7 @@
 | [0991-broken-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/foreveraditya/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/foreveraditya/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/foreveraditya/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/foreveraditya/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -192,6 +194,7 @@
 | [0881-boats-to-save-people](https://github.com/foreveraditya/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/foreveraditya/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/foreveraditya/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/foreveraditya/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/foreveraditya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -248,6 +251,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/foreveraditya/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/foreveraditya/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/foreveraditya/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/foreveraditya/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
