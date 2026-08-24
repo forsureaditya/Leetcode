@@ -93,6 +93,7 @@
 | [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/foreveraditya/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0649-dota2-senate](https://github.com/foreveraditya/Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/foreveraditya/Leetcode/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/foreveraditya/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -160,6 +161,7 @@
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/foreveraditya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/foreveraditya/Leetcode/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/foreveraditya/Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/foreveraditya/Leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/foreveraditya/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/foreveraditya/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -320,4 +322,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/foreveraditya/Leetcode/tree/master/0881-boats-to-save-people) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/foreveraditya/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
