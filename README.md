@@ -45,6 +45,7 @@
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/foreveraditya/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/foreveraditya/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/foreveraditya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/foreveraditya/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/foreveraditya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -151,6 +152,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/foreveraditya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/foreveraditya/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/foreveraditya/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/foreveraditya/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
