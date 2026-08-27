@@ -21,11 +21,9 @@ public:
         vector<int>vect;
         dfs(root,vect);
         unordered_map<int,int>mpp;
-        for(auto it: vect) mpp[it]++;
-        for(auto it: mpp){
-            if(it.second>1) return false;
+        for(int i=1;i<vect.size();i++){
+            if(vect[i]<=vect[i-1]) return false;
         }
-        if(is_sorted(vect.begin(),vect.end())) return true;
-        return false;
+        return true;
     }
 };
