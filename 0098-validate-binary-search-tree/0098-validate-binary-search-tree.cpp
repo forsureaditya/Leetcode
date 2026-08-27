@@ -20,7 +20,7 @@ public:
     bool isValidBST(TreeNode* root) {
         vector<int>vect;
         dfs(root,vect);
-        unordered_map<int,int>mpp;
+       
         for(int i=1;i<vect.size();i++){
             if(vect[i]<=vect[i-1]) return false;
         }
