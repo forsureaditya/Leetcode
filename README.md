@@ -11,6 +11,7 @@
 | [0057-insert-interval](https://github.com/foreveraditya/Leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foreveraditya/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/foreveraditya/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/foreveraditya/Leetcode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -280,6 +281,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/foreveraditya/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/foreveraditya/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -327,6 +329,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/foreveraditya/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/foreveraditya/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -361,10 +364,12 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
