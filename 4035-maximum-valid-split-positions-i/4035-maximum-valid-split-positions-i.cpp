@@ -23,9 +23,10 @@ public:
         return cnt;
     }
     int maxValidSplits(vector<int>& nums) {
-        int ans = func(nums,-1);
+        int ans = func(nums,-1);// im trying to calculate number of splits with no element deleted.
         for(int i=0;i<nums.size();i++){
-            ans = max(ans,func(nums,i));
+            ans = max(ans,func(nums,i));// im trying to calculate the number of splits with one 
+                                        // one element deleted
         }
         return ans;
     }
