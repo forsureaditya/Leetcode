@@ -8,7 +8,19 @@ public:
         }
         return cnt;
     }
-
+long long power(long long x, long long y, int MOD){
+    long long ans = 1;
+    
+    while(y){
+        if(y % 2 == 1){
+            ans = (ans * x) % MOD;
+        }
+        x = (x * x) % MOD;
+        y /= 2;
+    }
+    
+    return ans;
+}
     int sumDecoded(vector<long long>& nums) {
         long long sum = 0;
         int MOD = (int)(1e9+7);
@@ -34,7 +46,7 @@ public:
             }
             reverse(strxi.begin(),strxi.end());
             long long xi = stoi(strxi);
-           long long sumt = (long long)pow(xi, yi); 
+            long long sumt = power(xi, yi, MOD);
             sum+=sumt%MOD;
         }
         return sum%MOD;
