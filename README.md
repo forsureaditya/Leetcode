@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
+| [0382-linked-list-random-node](https://github.com/foreveraditya/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0991-broken-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0991-broken-calculator) |
@@ -387,4 +388,16 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/foreveraditya/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Linked List
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/foreveraditya/Leetcode/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/foreveraditya/Leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/foreveraditya/Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
