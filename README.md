@@ -37,6 +37,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1834-single-threaded-cpu](https://github.com/foreveraditya/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/foreveraditya/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -222,6 +223,7 @@
 | [0948-bag-of-tokens](https://github.com/foreveraditya/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1834-single-threaded-cpu](https://github.com/foreveraditya/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/foreveraditya/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/foreveraditya/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/foreveraditya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -263,6 +265,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/foreveraditya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/foreveraditya/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/foreveraditya/Leetcode/tree/master/1834-single-threaded-cpu) |
 ## Sliding Window
 |  |
 | ------- |
