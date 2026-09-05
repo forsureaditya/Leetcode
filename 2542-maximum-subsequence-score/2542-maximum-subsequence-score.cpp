@@ -22,3 +22,5 @@ public:
          return ans; 
     }
 };
+// doo din lag gaye bhai isko solve karne mein 
+// kitna chutiya question hai socho.
