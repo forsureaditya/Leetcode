@@ -15,6 +15,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/foreveraditya/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/foreveraditya/Leetcode/tree/master/0135-candy) |
+| [0209-minimum-size-subarray-sum](https://github.com/foreveraditya/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/foreveraditya/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -279,6 +280,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/foreveraditya/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/foreveraditya/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/foreveraditya/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/foreveraditya/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/foreveraditya/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/foreveraditya/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
@@ -309,6 +312,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/foreveraditya/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/foreveraditya/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/foreveraditya/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/foreveraditya/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/foreveraditya/Leetcode/tree/master/0904-fruit-into-baskets) |
