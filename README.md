@@ -24,6 +24,7 @@
 | [0455-assign-cookies](https://github.com/foreveraditya/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/foreveraditya/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -309,6 +310,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/foreveraditya/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/foreveraditya/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/foreveraditya/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/foreveraditya/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/foreveraditya/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/foreveraditya/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
