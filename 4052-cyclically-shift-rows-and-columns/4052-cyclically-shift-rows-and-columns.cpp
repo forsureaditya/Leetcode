@@ -15,12 +15,6 @@ public:
             }
             
         }
-        for(int i=0;i<grid.size();i++){//act like row
-            for(int j=0;j<grid.size();j++){//act like col
-                cout<<fans[i][j]<<" ";
-            }
-            cout<<endl;
-        }
         return fans;
     }
 };
