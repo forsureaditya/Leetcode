@@ -65,6 +65,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/foreveraditya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/foreveraditya/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/foreveraditya/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3912-valid-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/3912-valid-elements-in-an-array) |
 ## Stack
 |  |
 | ------- |
