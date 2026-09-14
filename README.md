@@ -43,6 +43,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/foreveraditya/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/foreveraditya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/foreveraditya/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/foreveraditya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/foreveraditya/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/foreveraditya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -143,6 +145,7 @@
 | [0633-sum-of-square-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0991-broken-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/foreveraditya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/foreveraditya/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/foreveraditya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/foreveraditya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/foreveraditya/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -444,6 +448,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/foreveraditya/Leetcode/tree/master/0649-dota2-senate) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/foreveraditya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
