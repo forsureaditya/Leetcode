@@ -139,6 +139,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/foreveraditya/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/foreveraditya/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/foreveraditya/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2390-removing-stars-from-a-string](https://github.com/foreveraditya/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/foreveraditya/Leetcode/tree/master/2405-optimal-partition-of-string) |
@@ -155,6 +156,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/foreveraditya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/foreveraditya/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/foreveraditya/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/foreveraditya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/foreveraditya/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -232,6 +234,7 @@
 | [1328-break-a-palindrome](https://github.com/foreveraditya/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/foreveraditya/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/foreveraditya/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/foreveraditya/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/foreveraditya/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -511,4 +514,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/foreveraditya/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/foreveraditya/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
