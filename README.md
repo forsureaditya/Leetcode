@@ -41,6 +41,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/foreveraditya/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/foreveraditya/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/foreveraditya/Leetcode/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/foreveraditya/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -420,6 +421,7 @@
 | [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/foreveraditya/Leetcode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/foreveraditya/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/foreveraditya/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -431,6 +433,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/foreveraditya/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/foreveraditya/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/foreveraditya/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -532,4 +535,12 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/foreveraditya/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
+## Matrix
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
