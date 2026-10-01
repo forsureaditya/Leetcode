@@ -75,6 +75,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/foreveraditya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foreveraditya/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/foreveraditya/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
@@ -526,6 +528,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/foreveraditya/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Game Theory
 |  |
