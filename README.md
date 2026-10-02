@@ -73,6 +73,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/foreveraditya/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/foreveraditya/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/3912-valid-elements-in-an-array) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/foreveraditya/Leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/foreveraditya/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/foreveraditya/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/foreveraditya/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/foreveraditya/Leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/foreveraditya/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/foreveraditya/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/foreveraditya/Leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Binary Search
 |  |
 | ------- |
