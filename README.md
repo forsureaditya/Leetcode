@@ -39,6 +39,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/foreveraditya/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/foreveraditya/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/foreveraditya/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/foreveraditya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/foreveraditya/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -435,6 +436,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/foreveraditya/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/foreveraditya/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/foreveraditya/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/foreveraditya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -545,5 +547,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/foreveraditya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
