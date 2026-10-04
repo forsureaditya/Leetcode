@@ -24,6 +24,7 @@
 | [0414-third-maximum-number](https://github.com/foreveraditya/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/foreveraditya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/foreveraditya/Leetcode/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/foreveraditya/Leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/foreveraditya/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -191,6 +192,7 @@
 | [0055-jump-game](https://github.com/foreveraditya/Leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/foreveraditya/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/foreveraditya/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/foreveraditya/Leetcode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
@@ -439,6 +441,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/foreveraditya/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/foreveraditya/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/foreveraditya/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/foreveraditya/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/foreveraditya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -550,6 +553,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/foreveraditya/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/foreveraditya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
