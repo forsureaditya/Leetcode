@@ -88,6 +88,7 @@
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/foreveraditya/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/foreveraditya/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -141,6 +142,7 @@
 | [0763-partition-labels](https://github.com/foreveraditya/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/foreveraditya/Leetcode/tree/master/0767-reorganize-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/foreveraditya/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/foreveraditya/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1328-break-a-palindrome](https://github.com/foreveraditya/Leetcode/tree/master/1328-break-a-palindrome) |
@@ -537,6 +539,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/foreveraditya/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Game Theory
 |  |
