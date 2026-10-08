@@ -434,6 +434,7 @@
 | [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/foreveraditya/Leetcode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0785-is-graph-bipartite](https://github.com/foreveraditya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/foreveraditya/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/foreveraditya/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -447,6 +448,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/foreveraditya/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/foreveraditya/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/foreveraditya/Leetcode/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/foreveraditya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/foreveraditya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -556,6 +558,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/foreveraditya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
@@ -563,4 +566,16 @@
 | [0542-01-matrix](https://github.com/foreveraditya/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/foreveraditya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/foreveraditya/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/foreveraditya/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/foreveraditya/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
