@@ -16,6 +16,7 @@
 | [0134-gas-station](https://github.com/foreveraditya/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/foreveraditya/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/foreveraditya/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/foreveraditya/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/foreveraditya/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -162,6 +163,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/foreveraditya/Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
 | [0382-linked-list-random-node](https://github.com/foreveraditya/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -279,6 +281,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/foreveraditya/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/foreveraditya/Leetcode/tree/master/1291-sequential-digits) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/foreveraditya/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/foreveraditya/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -311,6 +314,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/foreveraditya/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/foreveraditya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -578,4 +582,16 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/foreveraditya/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/foreveraditya/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/foreveraditya/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/foreveraditya/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
