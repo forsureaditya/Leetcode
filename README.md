@@ -63,6 +63,7 @@
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/foreveraditya/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/foreveraditya/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/foreveraditya/Leetcode/tree/master/2542-maximum-subsequence-score) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/foreveraditya/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/foreveraditya/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/foreveraditya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/foreveraditya/Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -226,6 +227,7 @@
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/foreveraditya/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/foreveraditya/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/foreveraditya/Leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/foreveraditya/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/foreveraditya/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/foreveraditya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/foreveraditya/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -594,4 +596,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/foreveraditya/Leetcode/tree/master/0204-count-primes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/foreveraditya/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/foreveraditya/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
