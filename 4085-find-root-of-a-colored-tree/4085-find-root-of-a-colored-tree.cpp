@@ -1,19 +1,18 @@
 class Solution {
 public:
-    bool func(vector<vector<int>>& adj,string &colors,int i){
+    bool func(vector<vector<int>>& adj,string &colors,vector<int> &vis,int i,int stamp){
         if(adj[i].size()>2) return false;
         queue<pair<int,char>>q;
-        vector<int>vis(adj.size(),0);
         q.push({i,colors[i]});
-        vis[i] = 1;
+        vis[i] = stamp;
         while(!q.empty()){
             int val = q.front().first;
             char color = q.front().second;
             q.pop();
             
             for(auto it: adj[val]){
-                if(vis[it]==1) continue;
-                vis[it] = 1;
+                if(vis[it]==stamp) continue;
+                vis[it]=stamp;
                 if(color == 'R' && colors[it]=='B' ){
                     q.push({it,colors[it]});
                 }
@@ -35,8 +34,9 @@ public:
             adj[edges[i][0]].push_back(edges[i][1]);
             adj[edges[i][1]].push_back(edges[i][0]);
         }
+        vector<int> vis(colors.size(), 0);
         for(int i=0;i<colors.size();i++){
-            if(func(adj,colors,i)) return i;
+            if(func(adj,colors,vis,i,i+1)) return i;
         }
         return -1;
     }
