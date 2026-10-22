@@ -135,6 +135,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/foreveraditya/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0127-word-ladder](https://github.com/foreveraditya/Leetcode/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/foreveraditya/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
@@ -209,6 +210,7 @@
 | [0001-two-sum](https://github.com/foreveraditya/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/foreveraditya/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/foreveraditya/Leetcode/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/foreveraditya/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/foreveraditya/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/foreveraditya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -453,6 +455,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/foreveraditya/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0127-word-ladder](https://github.com/foreveraditya/Leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/foreveraditya/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/foreveraditya/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/foreveraditya/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -619,4 +622,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/foreveraditya/Leetcode/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/foreveraditya/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
