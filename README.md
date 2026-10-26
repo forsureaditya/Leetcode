@@ -32,6 +32,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/foreveraditya/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/foreveraditya/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/foreveraditya/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/foreveraditya/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/foreveraditya/Leetcode/tree/master/0860-lemonade-change) |
@@ -92,6 +93,7 @@
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/foreveraditya/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/foreveraditya/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/foreveraditya/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -121,6 +123,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/foreveraditya/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/foreveraditya/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/foreveraditya/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -254,6 +257,7 @@
 | [0649-dota2-senate](https://github.com/foreveraditya/Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/foreveraditya/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/foreveraditya/Leetcode/tree/master/0767-reorganize-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/foreveraditya/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/foreveraditya/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/foreveraditya/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/foreveraditya/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -304,6 +308,7 @@
 | [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/foreveraditya/Leetcode/tree/master/0767-reorganize-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/foreveraditya/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/foreveraditya/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/foreveraditya/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/foreveraditya/Leetcode/tree/master/0923-3sum-with-multiplicity) |
