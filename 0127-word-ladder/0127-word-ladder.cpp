@@ -2,27 +2,33 @@ class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         queue<pair<string,int>>q;
-        q.push({beginWord,0});// level is zero alright.
-        unordered_map<string,int>mpp;
-        mpp[beginWord]++;
+        q.push({beginWord,1});
+        unordered_set<string>st(wordList.begin(),wordList.end());
+        st.erase(beginWord);// as it is visited.
+        
         while(!q.empty()){
             string str = q.front().first;
             int level = q.front().second;
             q.pop();
-            for(int i=0;i<wordList.size();i++){
-                if(mpp.find(wordList[i])!=mpp.end()) continue;
-                else{
-                    int diff = inner_product(str.begin(), str.end(), wordList[i].begin(), 0,
-                         plus<>(), not_equal_to<>());
-                         if(diff==1){
-                            if(wordList[i]==endWord) return (level+1)+1;
-                            mpp[wordList[i]]++;// you have marked it.
-                            q.push({wordList[i],level+1});
+            if(str==endWord) return level;
+            for(int i=0;i<str.size();i++){
+                string original = str;
+                vector<string>collection;
+                for(char ch = 'a';ch<='z';ch++){
+                    str[i]=ch;
+                    if(st.find(str)!=st.end()){
+                        q.push({str,level+1});
+                        collection.push_back(str);
+                    }
 
-                         }
                 }
+                str = original; // cuz ek time par ek hi change karna hai 
+            for(auto it: collection){
+                st.erase(it);
+            }
             }
         }
         return 0;
+
     }
 };
