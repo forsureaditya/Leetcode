@@ -49,6 +49,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/foreveraditya/Leetcode/tree/master/1046-last-stone-weight) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/foreveraditya/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/foreveraditya/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -231,6 +232,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/foreveraditya/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/foreveraditya/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/foreveraditya/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/foreveraditya/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/foreveraditya/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -351,6 +353,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/foreveraditya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/foreveraditya/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/foreveraditya/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/foreveraditya/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/foreveraditya/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/foreveraditya/Leetcode/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
@@ -591,6 +594,7 @@
 | [0542-01-matrix](https://github.com/foreveraditya/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/foreveraditya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/foreveraditya/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/foreveraditya/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Graph Theory
 |  |
 | ------- |
