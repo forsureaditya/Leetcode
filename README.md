@@ -27,6 +27,7 @@
 | [0455-assign-cookies](https://github.com/foreveraditya/Leetcode/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/foreveraditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/foreveraditya/Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/foreveraditya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/foreveraditya/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -221,6 +222,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/foreveraditya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/foreveraditya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/foreveraditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/foreveraditya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/foreveraditya/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/foreveraditya/Leetcode/tree/master/0763-partition-labels) |
@@ -346,6 +348,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/foreveraditya/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/foreveraditya/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/foreveraditya/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/foreveraditya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/foreveraditya/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/foreveraditya/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
