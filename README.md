@@ -189,6 +189,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/foreveraditya/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/foreveraditya/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/foreveraditya/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/foreveraditya/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/foreveraditya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/foreveraditya/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/foreveraditya/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -212,6 +213,7 @@
 | [0542-01-matrix](https://github.com/foreveraditya/Leetcode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/foreveraditya/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/foreveraditya/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Hash Table
 |  |
 | ------- |
