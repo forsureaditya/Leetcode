@@ -1,41 +1,25 @@
 class Solution {
 public:
-    int minimumRounds(vector<int>& tasks) {
+    int minimumRounds(vector<int>& nums) {
         unordered_map<int,int>mpp;
-        for(int i=0;i<tasks.size();i++){
-            mpp[tasks[i]]++;
+        for(int i=0;i<nums.size();i++){
+            mpp[nums[i]]++;
         }
-        int rounds = 0;
+        int ans = 0;
         for(auto it: mpp){
-            if(it.second%2==0){    
-            int i=0;
-            while(3*i<it.second){
-                i+=2;
+            if(it.second==1) return -1;
+            int val = it.second;
+            if(val%3==0){
+                ans += it.second/3;
             }
-            if(i==0){
-                rounds+= (it.second)/2;
-            }
-            else if(3*i==it.second){
-                rounds+=i;
+            else if(val%3==1){
+                int pdt = it.second/3;
+                ans += (pdt-1) + (it.second-3*(pdt-1))/2;
             }
             else{
-                rounds+= (i-2 + (it.second-3*(i-2))/2);
-            }
-            }
-            else{
-                int i=1;
-                while(3*i<it.second){
-                    i+=2;
-                }
-                if(it.second == 1) return -1;
-                else if(3*i == it.second){     
-                 rounds += i;
-                 }
-                else{
-                    rounds+=(i-2+(it.second-3*(i-2))/2);
-                }
+                ans += it.second/3 + 1;
             }
         }
-        return rounds;
+        return ans;
     }
 };
