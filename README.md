@@ -62,6 +62,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/foreveraditya/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/foreveraditya/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/foreveraditya/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/foreveraditya/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/foreveraditya/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/foreveraditya/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/foreveraditya/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -184,6 +185,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/foreveraditya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/foreveraditya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/foreveraditya/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/foreveraditya/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/foreveraditya/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/foreveraditya/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/foreveraditya/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -277,6 +279,7 @@
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/foreveraditya/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/foreveraditya/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/foreveraditya/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/foreveraditya/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/foreveraditya/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/foreveraditya/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/foreveraditya/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -326,6 +329,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/foreveraditya/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/foreveraditya/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/foreveraditya/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/foreveraditya/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2542-maximum-subsequence-score](https://github.com/foreveraditya/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/foreveraditya/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
