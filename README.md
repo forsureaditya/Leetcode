@@ -53,6 +53,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/foreveraditya/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/foreveraditya/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1338-reduce-array-size-to-the-half](https://github.com/foreveraditya/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/foreveraditya/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -244,6 +245,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/foreveraditya/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foreveraditya/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/foreveraditya/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1338-reduce-array-size-to-the-half](https://github.com/foreveraditya/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/foreveraditya/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/foreveraditya/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/foreveraditya/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -282,6 +284,7 @@
 | [0991-broken-calculator](https://github.com/foreveraditya/Leetcode/tree/master/0991-broken-calculator) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/foreveraditya/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1328-break-a-palindrome](https://github.com/foreveraditya/Leetcode/tree/master/1328-break-a-palindrome) |
+| [1338-reduce-array-size-to-the-half](https://github.com/foreveraditya/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/foreveraditya/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/foreveraditya/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -336,6 +339,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/foreveraditya/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/foreveraditya/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/foreveraditya/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1338-reduce-array-size-to-the-half](https://github.com/foreveraditya/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/foreveraditya/Leetcode/tree/master/1834-single-threaded-cpu) |
@@ -398,6 +402,7 @@
 | [0767-reorganize-string](https://github.com/foreveraditya/Leetcode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/foreveraditya/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1046-last-stone-weight](https://github.com/foreveraditya/Leetcode/tree/master/1046-last-stone-weight) |
+| [1338-reduce-array-size-to-the-half](https://github.com/foreveraditya/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/foreveraditya/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/foreveraditya/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/foreveraditya/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
